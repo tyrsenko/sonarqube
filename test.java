@@ -7,7 +7,8 @@ public class Demo {
         /* This reads the input provided by user
          * using keyboard
          */
-        Scanner scan = new Scanner(System.in);
+     
+   Scanner scan = new Scanner(System.in);
 	System.out.print("Enter first number: ");
 
         // This method reads the number provided using keyboard
