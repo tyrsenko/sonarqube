@@ -8,7 +8,8 @@ public class Demo {
          * using keyboard
          */
         Scanner scan = new Scanner(System.in);
-        System.out.print("Enter first number: ");
+        Scanner scan = new Scanner(System.in);
+	System.out.print("Enter first number: ");
 
         // This method reads the number provided using keyboard
         double num1 = scan.nextDouble();
